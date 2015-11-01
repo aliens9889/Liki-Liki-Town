@@ -1,0 +1,12 @@
+petrocasa,24,10
+petrocasa,18,14
+petrocasa,18,15
+petrocasa,18,16
+petrocasa,23,14
+petrocasa,16,14
+petrocasa,17,12
+petrocasa,12,14
+petrocasa,16,13
+petrocasa,18,14
+petrocasa,17,14
+petrocasa,14,15

@@ -1,0 +1,7 @@
+petrocasa,51,48
+petrocasa,51,49
+petrocasa,52,48
+majunche,52,49
+majunche,53,48
+majunche,53,49
+viviendaDigna,54,48
